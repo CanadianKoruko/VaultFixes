@@ -2,7 +2,7 @@
 ![server-side-only](https://img.shields.io/badge/environment-server-orangered?style=flat-square)
 ![vault-hunters](https://img.shields.io/badge/vault_hunters-3.13-blue)
 
-### This mod require [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files/3820307)
+### This mod require [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files/4513187)
 
 *Some major (and minor) optimizations for Vault Hunters 3rd Edition*
 
